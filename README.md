@@ -1,1 +1,2 @@
 # Taller-2-Web
+Descripción del Proyecto: Este proyecto fue realizado con codigo HTML basico, no se hizo uso de CSS, ya que el profesor no lo pidio para el desarrollo de la pagina web. Podemos navegar de pagina en pagina, cada una tiene su estructura basica, hacemos uso de un Creador de iconos y de texto.
